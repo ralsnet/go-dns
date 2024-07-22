@@ -6,7 +6,7 @@
 
 Install `dns` by running:
 
-`go install github.com/ralsnet/cmd/dns@latest`
+`go install github.com/ralsnet/go-dns/cmd/dns@latest`
 
 and ensuring that `$GOPATH/bin` is added to your `$PATH`
 
